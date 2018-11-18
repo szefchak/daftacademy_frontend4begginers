@@ -1,0 +1,37 @@
+.navbar {
+    position: fixed;
+    width: 30%;
+}
+
+.container {
+    width: 70%;
+    float: right;
+}
+
+.navbar a {
+    display: block;
+}
+
+.landPage {
+    height: 100%;
+}
+
+.about {
+    height: 100%;
+}
+
+.concerts {
+    height: 100%;
+}
+
+.video {
+    height: 100%;
+}
+
+.photos {
+    height: 100%;
+}
+
+.contact {
+    height: 100%;
+}
